@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../behave/.idea/behaveinstacrt.iml" filepath="$PROJECT_DIR$/../behave/.idea/behaveinstacrt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../missionhumane/.idea/missionhumane.iml" filepath="$PROJECT_DIR$/../missionhumane/.idea/missionhumane.iml" />
+    </modules>
+  </component>
+</project>
